@@ -1,0 +1,15 @@
+/Users/jabespauya/go/src/testakka/bin/Debug/netcoreapp3.0/testakka
+/Users/jabespauya/go/src/testakka/bin/Debug/netcoreapp3.0/testakka.deps.json
+/Users/jabespauya/go/src/testakka/bin/Debug/netcoreapp3.0/testakka.runtimeconfig.json
+/Users/jabespauya/go/src/testakka/bin/Debug/netcoreapp3.0/testakka.runtimeconfig.dev.json
+/Users/jabespauya/go/src/testakka/bin/Debug/netcoreapp3.0/testakka.dll
+/Users/jabespauya/go/src/testakka/bin/Debug/netcoreapp3.0/testakka.pdb
+/Users/jabespauya/go/src/testakka/bin/Debug/netcoreapp3.0/Akka.dll
+/Users/jabespauya/go/src/testakka/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/jabespauya/go/src/testakka/obj/Debug/netcoreapp3.0/testakka.csprojAssemblyReference.cache
+/Users/jabespauya/go/src/testakka/obj/Debug/netcoreapp3.0/testakka.csproj.CoreCompileInputs.cache
+/Users/jabespauya/go/src/testakka/obj/Debug/netcoreapp3.0/testakka.AssemblyInfoInputs.cache
+/Users/jabespauya/go/src/testakka/obj/Debug/netcoreapp3.0/testakka.AssemblyInfo.cs
+/Users/jabespauya/go/src/testakka/obj/Debug/netcoreapp3.0/testakka.csproj.CopyComplete
+/Users/jabespauya/go/src/testakka/obj/Debug/netcoreapp3.0/testakka.dll
+/Users/jabespauya/go/src/testakka/obj/Debug/netcoreapp3.0/testakka.pdb
